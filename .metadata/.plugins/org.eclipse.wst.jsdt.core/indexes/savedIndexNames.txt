@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\JAVA\Java 5\eclipse-workspace-java5\ASM_Datnv_PH18618\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+108802248.index
+641450664.index
+1339566736.index
+1282817882.index
+2763823893.index
+279936124.index
